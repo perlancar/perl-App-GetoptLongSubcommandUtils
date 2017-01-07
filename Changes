@@ -1,5 +1,3 @@
-Revision history for App-GetoptLongSubcommandUtils
-
 0.002   2016-10-27 (PERLANCAR)
 
 	- Add utility: detect-getopt-long-subcommand-script.
